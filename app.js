@@ -46,7 +46,7 @@ let db=()=>{
 }
 
 let showwinner=(pa)=>{
-    text.innerText=`Congratulation , Winner is ${pa}`
+    text.innerText=`Congratulation Winner is ${pa}`
     mg.classList.remove("hide")
     db();
 

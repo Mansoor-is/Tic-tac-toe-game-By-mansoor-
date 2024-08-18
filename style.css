@@ -105,3 +105,17 @@ body{
 #ngame:hover{
     background-color: #C9E4CA;
 }
+@media only screen and (max-width: 600px) {
+    .mgs{
+        position: absolute;
+        bottom: 19.4%;
+        left: 55%;
+    }
+    #wtext{
+        color:#301014 ;
+        position: absolute;
+        top:130%;
+        right: 70%;
+        bottom: 0%;
+        font-size: 30px;
+    }}
